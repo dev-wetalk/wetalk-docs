@@ -7,7 +7,7 @@
   * [Whatsapp Sandbox](docs/Connect_to_Channel?id=whatsapp-sandbox)
   * [Whatsapp](docs/Connect_to_Channel?id=whatsapp)
   * [Whatsapp Cloud API](docs/Whatsapp_Cloud_API)
-  * [Line](docs/Connect_to_Channel?id=line)
+  <!-- * [Line](docs/Connect_to_Channel?id=line) {TODO HIDE FOR NOW}-->
 * [Flow Builder](docs/flowbuilder/Flow_Builder.md)
 * [Integrasi](#)
   * [Overview](docs/integration/Overview.md)
