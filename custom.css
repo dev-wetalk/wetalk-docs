@@ -31,4 +31,9 @@
     --theme-color   : green;
     --link-color    : green;
 }
+
+.markdown-section table {
+    display: table;
+    width: 100%;
+}
   
