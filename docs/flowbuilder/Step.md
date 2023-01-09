@@ -51,7 +51,6 @@ Totalnya ada 4 cara:
 [gambar]
 
 - unggah dari komputer Anda (ukuran terbatas)
-
 > |     Media Type     | Maximum Upload Size |
 |:------------------:|:-------------------:|
 |        video       |         10MB        |
