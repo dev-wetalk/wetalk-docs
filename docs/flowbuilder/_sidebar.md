@@ -1,8 +1,8 @@
 * **MUST READ**
   * [Ikhtisar Pembuat Aliran](docs/flowbuilder/Flow_Builder.md)
 * **Step**
-  * [Langkah Kirim Pesan](docs/flowbuilder/Step.md)
-  * [Question Step](docs/flowbuilder/Question_Step.md)
+  * [Langkah Kirim Pesan](docs/flowbuilder/Step/Step.md)
+  * [Question Step](docs/flowbuilder/Step/Step_Question.md)
   * [Action Step Variable Operation](docs/flowbuilder/Step/Step_Variable.md)
   * [Action Step JSON Operation](docs/flowbuilder/Step/Step_JSON.md)
   * [Action Step External Request](docs/flowbuilder/Step/Step_External.md)
