@@ -32,4 +32,9 @@
     --link-color    : green;
     --sidebar-background : #E8F5E9;
 }
+
+.markdown-section table {
+    display: table;
+    width: 100%;
+}
   
