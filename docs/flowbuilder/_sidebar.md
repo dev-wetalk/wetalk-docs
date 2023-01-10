@@ -15,9 +15,9 @@
   * [Goto Step](docs/flowbuilder/Step_Goto.md)
   * [Canvas](docs/flowbuilder/Step_Canvas.md)
 * **Sub Flows**
-  * [Sub Flow](docs/flowbuilder/SubFLow_SubFLow.md)
+  * [Sub Flow](docs/flowbuilder/SubFLow_Subflow.md)
   * [Workflow](docs/flowbuilder/SubFLow_Workflow.md)
-  * [Function Flow](docs/flowbuilder/SubFLow_FunctionFLow.md)
+  * [Function Flow](docs/flowbuilder/SubFLow_Functionflow.md)
 * **Live Chat**
   * [Live Chat](docs/flowbuilder/Live_Chat.md)
 * **Bot Users**
