@@ -51,7 +51,8 @@ Totalnya ada 4 cara:
 [gambar]
 
 - unggah dari komputer Anda (ukuran terbatas)
-> |     Media Type     | Maximum Upload Size |
+
+|     Media Type     | Maximum Upload Size |
 |:------------------:|:-------------------:|
 |        video       |         10MB        |
 |        audio       |         5MB         |
@@ -59,13 +60,16 @@ Totalnya ada 4 cara:
 | others(e.g. image) |         2MB         |
 
 - dari tautan URL (DISARANKAN)
-> Anda dapat mencari gambar secara online dan menyalin tautan URL langsung mereka. Tetapi tautan langsung ini mungkin berubah. Alternatifnya, Anda dapat mengunggah foto ke server Anda atau penyimpanan foto pihak ketiga lainnya seperti imgur.com, lalu dapatkan tautan URL langsung dari situ. Tautan URL langsung berarti tautan tersebut mengarah ke foto tertentu, bukan situs web, diakhiri dengan .jpg atau .png, dll. Ambil tautan pada gambar di atas sebagai contoh.
+
+Anda dapat mencari gambar secara online dan menyalin tautan URL langsung mereka. Tetapi tautan langsung ini mungkin berubah. Alternatifnya, Anda dapat mengunggah foto ke server Anda atau penyimpanan foto pihak ketiga lainnya seperti imgur.com, lalu dapatkan tautan URL langsung dari situ. Tautan URL langsung berarti tautan tersebut mengarah ke foto tertentu, bukan situs web, diakhiri dengan .jpg atau .png, dll. Ambil tautan pada gambar di atas sebagai contoh.
 
 - cari dari galeri GIF
-> UChat memberi Anda galeri GIF, Anda dapat mencari apa yang Anda butuhkan di sini.
+
+UChat memberi Anda galeri GIF, Anda dapat mencari apa yang Anda butuhkan di sini.
 
 - dari Perpustakaan
-> Perpustakaan adalah tempat Anda dapat melihat semua foto, GIF, audio, dan video yang telah Anda unggah sebelumnya. Agar tidak perlu mengupload ulang media yang sama, cari saja di perpustakaan Anda.
+
+Perpustakaan adalah tempat Anda dapat melihat semua foto, GIF, audio, dan video yang telah Anda unggah sebelumnya. Agar tidak perlu mengupload ulang media yang sama, cari saja di perpustakaan Anda.
 
 ## Send Card
 
