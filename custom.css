@@ -10,8 +10,9 @@
         /* height: 150px; */
     }
 
-    :root {
-        --navbar-menu-root-background: none;
+    .app-nav>ul>li>a:not(:last-child), .app-nav>ul>li>span:not(:last-child) {
+        padding: 5px;
+        background: none;
     }
 }
 
