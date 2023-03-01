@@ -14,3 +14,5 @@
   * [Bot templates](docs/Bot_templates.md)
   * [Email templates](docs/Email_templates.md)
   * [Billing (Upgrade / Redeem)](docs/Billing.md)
+* **Wetalk**
+  * [Wetalk Integrations](#)
